@@ -1,0 +1,49 @@
+[
+    {
+        "name": "risan/sentiment-analysis",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/risan/sentiment-analysis.git",
+            "reference": "ee8c9ccf2cac81f6b28c7bf8cc9b34439cf5082e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/risan/sentiment-analysis/zipball/ee8c9ccf2cac81f6b28c7bf8cc9b34439cf5082e",
+            "reference": "ee8c9ccf2cac81f6b28c7bf8cc9b34439cf5082e",
+            "shasum": ""
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.8"
+        },
+        "time": "2016-03-10T23:57:48+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "SentimentAnalysis\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Risan Bagja Pradana",
+                "email": "risanbagja@gmail.com",
+                "homepage": "https://github.com/risan",
+                "role": "Developer"
+            }
+        ],
+        "description": "Sentiment analysis library for PHP.",
+        "homepage": "https://github.com/risan/sentiment-analysis",
+        "keywords": [
+            "analysis",
+            "mining",
+            "opinion",
+            "sentiment"
+        ]
+    }
+]

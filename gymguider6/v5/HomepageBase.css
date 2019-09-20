@@ -1,0 +1,76 @@
+* {
+margin: 0;
+padding: 0;
+}
+.jumbotron {
+
+    background-color:#131355 !important;
+
+
+}
+.btn.btn-outline-secondary:hover, .btn.btn-outline-secondary:active{
+    background-color: #131355 !important;
+    color: white !important;
+}
+
+div.dropdown-menu{
+  font-size: 21px;
+
+}
+
+ html, body{
+        height: 100%;
+
+        position: relative;
+        /* Remember this overflow is about the scroll horizontal bar*/
+        overflow-x: hidden;
+
+
+    }
+  .container{
+        min-height: 70%;
+
+
+
+    }
+
+  #footer{
+        background-color: rgba(184,184,183,0.4);
+        position: relative;
+        height: 170px;
+        margin-top: 20px;
+
+
+    }
+  .navbar{
+       background-color: rgba(184,184,183,0.4);
+  }
+  
+        .fa {
+          padding: 20px;
+          font-size: 30px;
+          width: 50px;
+          text-align: center;
+          text-decoration: none;
+          margin: 5px 2px;
+        }
+  
+        .fa:hover {
+            opacity: 0.7;
+        }
+  
+        .fa-facebook {
+          background: #3B5998;
+          color: white;
+        }
+        .fa-twitter {
+          background: #55ACEE;
+          color: white;
+        }
+        .fa-instagram {
+          background: #125688;
+          color: white;
+        }
+  
+   
+  
